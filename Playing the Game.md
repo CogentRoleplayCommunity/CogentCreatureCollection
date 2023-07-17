@@ -18,7 +18,7 @@ While Cogent is a Story Driven roleplaying game, there are times when a Player c
 1. ## Narrator Declares the CL
     Cogent has an associated *Cheetsheet* that is available for Narrators and Players alike.  Within the *Cheetsheet* is the % chance of success for any given **Dice Pool** vs an associated *Challenge Level* (CL).  To calculate the CL, the Narrator will determine the average **Dice Pool** of a Character attempting the same dice roll, and the % chance of success they would have.  Find the corresponding CL and notify the Player.
 
-1. ## 3. Calculate Narrative Success or Failure
+1. ## Calculate Narrative Success or Failure
     If a Character has a **Dice Pool** that is greater than the CL, the Character is capable of completing the task at hand.  Making a dice roll determines how well they accomplish the task at hand.  This is determined by calculating *Wins* and *Losses*, and comparing them to the CL.
     * **Wins and Loses**
         When rolling a D6 if the results is a 4, 5, or 6, then it is considered a **Win**, otherwise it is considered a **Loss**.
