@@ -1,10 +1,5 @@
 # <Chapter Number Here> Playing the Game
 
-**Game Mechanics**
-* Assists & Collaborations
-* Destiny Points
-
-
 ## Dice Pools
 While Cogent is a Story Driven roleplaying game, there are times when a Player can not resolve a situation by roleplaying alone.  When this happens, Cogent uses the **Dice Pool** mechanic.  
 1. ## Calculate your Dice Pool
