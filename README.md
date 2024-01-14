@@ -19,7 +19,7 @@ The Cogent System Community Project’s rules for taming have the following goal
 
 ## Tabke of Contents - Subsystems
 - [Taming Gauntlets](TamingGauntlets.md)
-- 
+- [Example Monster Types](MonsterTypes.md)
 
 ## Describing a Monster's Behavior
 
