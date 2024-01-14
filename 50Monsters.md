@@ -12,15 +12,22 @@ Born of Black Widows that absorb chaos Magic, Chaos Widows are aware of their sm
 **Scale:** 1
 #### Behavior
 **Triggers:** Webbing being destroyed, eggs being killed
+
 **Motivators:** The killing of larger creatures
+
 **Compatible Vocations:** Any death dealing
+
 **Initial Hostility:** -3 
+
 **Favored Food:** Meat
 
 #### Capabilities
 **Motivating Drive:** To Poison Ever Larger Creatures - 3
+
 **Monster Attack:** Venom Bite - 3 (The creature saves its venom for larger creatures.  If the creature is larger, the attack is Assisted by the Motivating Drive)
+
 **Monster Resource:** Poison - 2  
+
 **Free Skill**: Jump - 1
 
 
