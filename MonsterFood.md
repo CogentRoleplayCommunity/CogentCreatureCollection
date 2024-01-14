@@ -4,7 +4,8 @@
 - **Botanical Rations** - 1 - Feed a small herbivore for a week
 - **Enriched Meat** - 1 - Lowers a carnivore's hostility level by 1
 - **Choice Fruits** - 1 - Lowers a herbivore's hostility level by 1
-- **Elven Magic Feed** 2 - Creature has +1d6 to all dice pools for 24 hours
+- **Dwarf Magic Feed** 2 - Creature has +1d6 to all dice pools for 24 hours.  Only works on creatures that have Might as an Tier Attribute.
+- **Elven Magic Feed** 2 - Creature has +1d6 to all dice pools for 24 hours.  Only works on creatures that have Reflex as an Tier Attribute.
 - **Seeds of Sonorous Scent** - 2 - Tame rolls done with this feed as a lure have an additional 3d6 in the dice pool.  Works only on herbivores.
 - **Elemental Crystal**  - 2 - Tame rolls done with this feed as a lure have an additional 3d6 in the dice pool.  Works only on Elementals of the matching element.
 - **Drowsy Draught** - 2 - If a creature has a Hostility level of 2 or less, add the chemicals in this Drought to the Lure to remove the penalty .  Does not have any effect on Hostility Level 3 or higher. 
