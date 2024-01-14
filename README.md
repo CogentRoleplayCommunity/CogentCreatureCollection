@@ -110,7 +110,7 @@ Some examples below will illustrate.
 
 **Favored Food Source:** Meat
 
-**Creature Vocation** – Canine Guardian of Death - 3
+**Motivating Drive** – Canine Guardian of Death - 3
 
 Bite – 3
 
@@ -136,7 +136,7 @@ Here is a less spooky example of a monster:
 
 **Favored Food Source:** Berries
 
-**Creature Vocation** – Fey Trickster - 3
+**Motivating Drive** – PRANKISH FUN! - 3
 
 Illusion – 2
 
