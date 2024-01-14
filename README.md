@@ -86,7 +86,8 @@ d.   The tamer has a **compatible vocation** ( or is willing to accept a -2 pena
 2. The tamer performs the action implied by the Tame Method (e.g. offering a Lure, setting a trap, using a Psionic device etc.)
 3. The tamer succeeds on a **tame check** equal to 2 + the monster’s Tier (so 3 for a Tier 1 Creature) using their compatible vocation.
 
- 
+### Scale and Taming
+If a creature is a size category larger than you, you will occur the penalty that is described in the **Scale** Core Rules.  If you already have tamed monsters, for the purposes of determining Scale difference you are considered to have the Scale of the largest creature you have tamed.  Thus, if one wants to eventually tame collosal creatures, you will likely need to move through the size categories, using ever larger creatures to tame creatures the next Scale category up.  
 
 ## What Can I do with my new Monster Friend?
 
@@ -100,7 +101,7 @@ Some examples below will illustrate.
 
  
 
-#W# Some example Creatures and Their Uses
+### Some example Creatures and Their Uses
 
  **Cerberus – Might 2**
 
