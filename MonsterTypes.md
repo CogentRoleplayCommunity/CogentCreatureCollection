@@ -12,6 +12,7 @@ When attempting to do something with this shared ability, they roll a dice pool 
 - **Elemental** - **Elemental Control** - bend, weave or otherwise maniupulate the chosen Element in the environment
 - **Fey** - **Charming Presence** -Temporarily convince someone that they are a friend.  Cannot be done if the party has already been violent towards the target of the spell.
 - **Gnome** - **Salvage** - when in the presence of a destroyed contraption, a Gnome can roll to see if they find any still-useful parts
+- **Hive** - **Hive Mind** - Hive creatures can share thoughts and thus instantaneously plan hive mind pack tactics.  For tasks where this is an advantage, an Assist Roll can be done to gain additional successes.
 - **Merfolk** - **Hypnosis** - used to entrance those who can hear the creature's song
 - **Outsider** - **Mind Read** - The more successes above 3, the more information that is gleaned.  One success - surface level emotions.  Two success - words from inner monolog, often out of context. Three Successes - intent, long term plans etc.
 - **Undead** - **Life Drain** - used as an attack, the level of success determines the level of victory determines both that level of consequence the attacked creature suffers and the level of consequence that can be removed / healed from the undead. 
@@ -22,7 +23,8 @@ When attempting to do something with this shared ability, they roll a dice pool 
 - **Digital** - **Byte-Morph** - used to enter and hack computers and travel along networks
 - **Dragon** - **Elemental Breath** - useable as an attack or to accomplish some creative end
 - **Elemental** - **Elemental Control** - bend, weave or otherwise maniupulate the chosen Element in the environment
--- **Martian** - **Survivalist Instinct** - used to detect danger in the environment
+- **Hive** - **Hive Mind** - Hive creatures can share thoughts and thus instantaneously plan hive mind pack tactics.  For tasks where this is an advantage, an Assist Roll can be done to gain additional successes.
+- **Martian** - **Survivalist Instinct** - used to detect danger in the environment
 - **Mutant** - **Gene Edit** - Can aquire adaptations from living tissues that are touched.  When using these atypical features learned from other genetic codes, roll to see how well the adaptation is controlled. 
 - **Psion** - **Mind Read** - The more successes above 3, the more information that is gleaned.  One success - surface level emotions.  Two success - words from inner monolog, often out of context. Three Successes - intent, long term plans etc.
 - **Rugged Robot** - **Sturdy Construction** - used to resist effects that are predominately aimed at living creatures
