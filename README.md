@@ -17,9 +17,10 @@ The Cogent System Community Project’s rules for taming have the following goal
 - [Monster Death](Monster-Death)
 - [Cogent Roleplay Open License](#cogent-roleplay-open-license)
 
-## Tabke of Contents - Subsystems
+## Table of Contents - Subsystems
 - [Taming Gauntlets](TamingGauntlets.md)
 - [Example Monster Types](MonsterTypes.md)
+- [Monster Food](MonsterFood.md)
 
 ## Describing a Monster's Behavior
 
