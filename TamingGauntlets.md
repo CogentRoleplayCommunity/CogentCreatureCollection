@@ -14,4 +14,4 @@ Different Gauntlets are Described below, including their effects
 - **Masterwork Gauntlet** - 3 - +2 successes when taming 
 - **Type Gauntlet** - 3 - Gain +2 success when Taming a creature of a given Type, and -2 when taming all other creatures.
 - **Scale Gauntlet** - 4 - For the purposes of taming you Scale is considered one larger than normal.  Remember for taming you have the Scale of your Largest creature.  So if you have a +1 Scale (due to a creature you already control) for taming, with this Gauntlet you would have a scale of 2.
-- 
+  
