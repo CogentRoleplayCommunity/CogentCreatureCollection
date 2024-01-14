@@ -4,13 +4,13 @@ Under Construction, Current Count: 1
 ## Android (Sci-Fi)
 Lorum Ipsum
 
-## Arachnid
-### Chaos Widow
+# Arachnid
+## Chaos Widow
 Born of Black Widows that absorb chaos Magic, Chaos Widows are aware of their small origins and are driven but an insatiable desire to kill ever larger beasts.  They are a spider with an ego, and that ego can only be fed with the carcassous of large monsters
 
 **Tier:** 2 (Reflex)
 **Scale:** 1
-#### Behavior
+### Behavior
 **Triggers:** Webbing being destroyed, eggs being killed
 
 **Motivators:** The killing of larger creatures
@@ -21,7 +21,7 @@ Born of Black Widows that absorb chaos Magic, Chaos Widows are aware of their sm
 
 **Favored Food:** Meat
 
-#### Capabilities
+### Capabilities
 **Motivating Drive:** To Poison Ever Larger Creatures - 3
 
 **Monster Attack:** Venom Bite - 3 (The creature saves its venom for larger creatures.  If the creature is larger, the attack is Assisted by the Motivating Drive)
@@ -32,29 +32,29 @@ Born of Black Widows that absorb chaos Magic, Chaos Widows are aware of their sm
 
 
 
-## Clockwork
+# Clockwork
 Lorum Ipsum
 
-## Dire
+# Dire
 Lorum Ipsum
 
-## Dragon
+# Dragon
 Lorum Ipsum
 
-## Elemental
+# Elemental
 Lorum Ipsum
 
-## Fey
+# Fey
 Lorum Ipsum
 
-## Gnome
+# Gnome
 Lorum Ipsum
 
-## Merfolk
+# Merfolk
 Lorum Ipsum
 
-## Outsider
+# Outsider
 Lorum Ipsum
 
-## Undead
+# Undead
 Lorum Ipsum
