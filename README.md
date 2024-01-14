@@ -11,8 +11,8 @@ The Cogent System Community Project’s rules for taming have the following goal
 
 - [Table of Contents](#table-of-contents)
 - [Describing a Monster's Behavior](#Describing-a-Monster's-Behavior)
-- [Describing a Monster's Capabilities](Describing-a-Monster's Capabilities)
-- [Taming][#Taming]
+- [Describing a Monster's Capabilities](#Describing-a-Monster's-Capabilities)
+- [Taming](#Taming)
 - [What can I do with my new Monster Friend](#What-Can-I-do-with-my-new-Monster-Friend)
 - [Monster Death](Monster-Death)
 - [Cogent Roleplay Open License](#cogent-roleplay-open-license)
