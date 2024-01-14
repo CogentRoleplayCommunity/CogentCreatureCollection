@@ -7,7 +7,7 @@ The Cogent System Community Project’s rules for taming have the following goal
 3. To ensure Creatures do not become “Pokémon in the PC.” These rules acknowledge that **taking on a creature requires commitment** from the fictional character.
 4. Ensure creatures **do not replace** the player characters.
 
-## Table of Contents
+## Table of Contents - Core Rules
 
 - [Table of Contents](#table-of-contents)
 - [Describing a Monster's Behavior](#Describing-a-Monster's-Behavior)
@@ -16,6 +16,10 @@ The Cogent System Community Project’s rules for taming have the following goal
 - [What can I do with my new Monster Friend](#What-Can-I-do-with-my-new-Monster-Friend)
 - [Monster Death](Monster-Death)
 - [Cogent Roleplay Open License](#cogent-roleplay-open-license)
+
+## Tabke of Contents - Subsystems
+- [Taming Gauntlets](taminggauntlets.md)
+- 
 
 ## Describing a Monster's Behavior
 
