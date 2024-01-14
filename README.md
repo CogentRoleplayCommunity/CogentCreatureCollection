@@ -18,7 +18,7 @@ The Cogent System Community Project’s rules for taming have the following goal
 - [Cogent Roleplay Open License](#cogent-roleplay-open-license)
 
 ## Tabke of Contents - Subsystems
-- [Taming Gauntlets](taminggauntlets.md)
+- [Taming Gauntlets](TamingGauntlets.md)
 - 
 
 ## Describing a Monster's Behavior
