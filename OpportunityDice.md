@@ -1,5 +1,5 @@
 ## Opportunity Dice
-Creatures and monsters are often found in **Hostile Environments**  PLayers will often have a limited amount of time before something bad happens - space suits fail, a volcano explodes, a ship self destructs etc.  
+Creatures and monsters are often found in **Hostile Environments**  PLayers will often have a limited amount of time before something bad happens (the **Consequence**) - space suits fail, a volcano explodes, a ship self destructs etc.  
 
 (There should be a way for the story to continue if the "Something Bad" happens.
 
