@@ -22,6 +22,7 @@ The Cogent System Community Project’s rules for taming have the following goal
 - [Example Monster Types](MonsterTypes.md)
 - [Monster Food](MonsterFood.md)
 - [50 Monsters](50Monsters.md)
+- [Opportunity Dice](OpportunityDice.md)
 
 ## Describing a Monster's Behavior
 
