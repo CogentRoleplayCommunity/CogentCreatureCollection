@@ -1,5 +1,5 @@
 # 50 Monsters
-Under Construction, Current Count: 9 
+Under Construction, Current Count: 10 
 
 ## Android (Sci-Fi)
 ## Undying Lens
@@ -225,7 +225,28 @@ Lorum Ipsum
 Lorum Ipsum
 
 # Outsider
-Lorum Ipsum
+## Dreamer
+**Tier:** 2 (INT)
+**Scale:** 1
+### Behavior
+**Triggers:** Cultic Activity, Undead, Nightmares
+
+**Motivators:** To analyze humanity through dream analysis 
+
+**Compatible Vocations:** Any related to psychology
+
+**Initial Hostility:** -2
+
+**Favored Food:** dreams
+
+### Capabilities
+**Motivating Drive:** To Analyze Extreme Psychologies - 2
+
+**Monster Attack:** Psionic Strike - 3
+
+**Free Skill:** Scense Motive - 5
+
+**Free Skill:** Telekenesis - 2
 
 # Undead
 ## Skull of the Ancient Folk
