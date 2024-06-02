@@ -1,8 +1,33 @@
 # 50 Monsters
-Under Construction, Current Count: 4
+Under Construction, Current Count: 9 
 
 ## Android (Sci-Fi)
-Lorum Ipsum
+## Undying Lens
+These beings look like a robotic spider, insofar as they have eight legs.  However instead of a head and body, they have one giant lens.  These machines, whose makers are unknown, see to record analyze and study.  If they become aware of a species or phenomenon they have not studied yet they were go through ruthless means to persue it.  
+
+**Tier:** 2 (Tech)
+**Scale:** 1
+### Behavior
+**Triggers:** Being kept from its intended mark, 
+
+**Motivators:** The persuit of the unknown
+
+**Compatible Vocations:** Any robotic, science or information related
+
+**Initial Hostility:** -2 
+
+**Favored Food:** Energy Crystals
+
+### Capabilities
+**Motivating Drive:** To Persuit of knowledge - 4
+
+**Monster Attack:** Leg Strike - 2
+
+**Monster Resource:** Crypto
+
+**Free Skill**: Jump - 3
+
+
 
 # Arachnid
 ## Chaos Widow
@@ -36,7 +61,55 @@ Born of Black Widows that absorb chaos Magic, Chaos Widows are aware of their sm
 Lorum Ipsum
 
 # Dire
-Lorum Ipsum
+## Plague Rat
+**Tier:** 1 (Reflex)
+**Scale:** 1
+### Behavior
+**Triggers:** Rotten food, new chemical sense
+
+**Motivators:** Seeks to consume waste, in order to grow more powerful
+
+**Compatible Vocations:** Any related to chemistry or poison
+
+**Initial Hostility:** -3 
+
+**Favored Food:** Meat
+
+### Capabilities
+**Motivating Drive:** To Consume - 1
+
+**Monster Attack:** Bite - 3
+
+**Free Skill:** Follow Scent - 4
+
+**Free Skill:** Track - 2
+
+**Free Skill:** Jump - 1
+
+## Nightmare Wolf
+**Tier:** 2 (Reflex)
+**Scale:** 1
+### Behavior
+**Triggers:** danger to the pack, the full moon
+
+**Motivators:** To hunt
+
+**Compatible Vocations:** Any related to hunting
+
+**Initial Hostility:** -3 
+
+**Favored Food:** Meat
+
+### Capabilities
+**Motivating Drive:** To Hunt New Targets - 3
+
+**Monster Attack:** Bite - 4
+
+**Free Skill:** Follow Scent - 2
+
+**Free Skill:** Track - 2
+
+**Free Skill:** Jump - 2
 
 # Divine
 ## Cerberus 
@@ -66,7 +139,30 @@ Lorum Ipsum
 
 
 # Dragon
-Lorum Ipsum
+## Baby Sparky
+**Tier:** 1 (STR)
+**Scale:** 1
+### Behavior
+**Triggers:** Fire or lightning
+
+**Motivators:** Curiosity
+
+**Compatible Vocations:** Any related animal husbandry, magic or fire
+
+**Initial Hostility:** -1
+
+**Favored Food:** Meat
+
+### Capabilities
+**Motivating Drive:** To Explore - 2
+
+**Monster Attack:** Bite - 1
+
+**Free Skill:** Follow Scent - 3
+
+**Free Skill:** Glide - 2
+
+**Free Skill:** Burrow - 1
 
 # Elemental
 ## Fire Elemental
@@ -132,4 +228,28 @@ Lorum Ipsum
 Lorum Ipsum
 
 # Undead
-Lorum Ipsum
+## Skull of the Ancient Folk
+**Tier:** 1 (INT)
+**Scale:** 1
+### Behavior
+**Triggers:** Harm to the legacy of the Maker
+
+**Motivators:** Vengence
+
+**Compatible Vocations:** Any related to politics
+
+**Initial Hostility:** -3
+
+**Favored Food:** Rotted Meat
+
+### Capabilities
+**Motivating Drive:** To Protect the Grave of its Maker or Avenge Harms to Maker's Kingdom - 3
+
+**Monster Attack:** Bite - 1
+
+**Free Skill:** Scense Motive - 3
+
+**Free Skill:** Glide - 2
+
+
+
