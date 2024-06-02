@@ -55,7 +55,29 @@ Born of Black Widows that absorb chaos Magic, Chaos Widows are aware of their sm
 
 **Free Skill**: Jump - 1
 
+## Sunless Spider
+Pale Spiders that live where there is no sunlet, these creatures are expert at making traps.  These spiders form tribes that seek to control ever larger portions of underground caverns.  They can communicate for long distances, even miles, through web vibration
 
+**Tier:** 1 (Reflex)
+**Scale:** 1
+### Behavior
+**Triggers:** Webbing being destroyed, sunlet
+**Motivators:** Exploration, for web creation, and expanding its larger netork
+
+**Compatible Vocations:** Any exploration or trap related. 
+
+**Initial Hostility:** -3 
+
+**Favored Food:** Meat
+
+### Capabilities
+**Motivating Drive:** To Claim Territory- 2
+
+**Monster Attack:** Webbing - 2
+
+**Monster Resource:** Poison - 1  
+
+**Free Skill**: Jump - 2
 
 # Clockwork
 Lorum Ipsum
